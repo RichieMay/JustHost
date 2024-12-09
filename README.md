@@ -6,16 +6,16 @@ JustHost.ru 是一家成立于2006年的俄罗斯老牌主机商，目前已经�
 
 ## JustHost 官网和镜像站
 
-- **主站**: [JustHost 主站](https://justhost.ru/services/vps/?ref=196392)
-- **镜像站**: [JustHost Asia](https://justhost.asia/?ref=196392) - 目前国内可访问
-- **镜像站**: [Just Hosting](https://just.hosting/?ref=196392) - 目前国内可访问
+- **主站**: [JustHost 主站](https://justhost.ru/services/vps/?ref=41324)
+- **镜像站**: [JustHost Asia](https://justhost.asia/?ref=41324) - 目前国内可访问
+- **镜像站**: [Just Hosting](https://just.hosting/?ref=41324) - 目前国内可访问
 
  ![image](https://github.com/pulleroviewl/JustHost/assets/157681159/e30da8e8-7902-4f0b-81b5-556eb2bbf95c)
 
 
 ## JustHost 优惠码
 
-使用优惠码 [PROMO20](https://justhost.asia/zh/services/vps/?ref=196392)、[LET20](https://justhost.asia/zh/services/vps/?ref=196392) 购买 JustHost 的任何套餐，可享受月付款方式8折优惠。
+使用优惠码 [PROMO20](https://justhost.asia/zh/services/vps/?ref=41324)、[LET20](https://justhost.asia/zh/services/vps/?ref=41324) 购买 JustHost 的任何套餐，可享受月付款方式8折优惠。
 
 注意：该优惠仅适用于月付款方式。
 
@@ -27,7 +27,7 @@ JustHost.ru 是一家成立于2006年的俄罗斯老牌主机商，目前已经�
   - 流量: 200M带宽，不限流量
   - IPv4: 1个，支持IPv6
   - **价格**: 月付$2.6美元
-  - [立即购买](https://justhost.asia/services/vps/?ref=196392)
+  - [立即购买](https://justhost.asia/services/vps/?ref=41324)
 
 ## JustHost 数据中心和机房信息
 
@@ -35,19 +35,19 @@ JustHost 拥有超过20个数据中心，覆盖全球多个重要地区。这些
 
 | 产品类型         | CPU    | 内存    | 硬盘类型 | 硬盘大小 | 带宽         | 价格区间                | 购买地址 |
 |----------------|--------|--------|----------|----------|--------------|-------------------------|------|
-| HDD VPS Start  | 1核    | 512MB  | HDD      | 5GB      | 不限，10Mbit | $1.16                    | [立即购买](https://justhost.asia/services/vps/tariffs/13?location=gefaftmcom&ref=196392) |
-| HDD VPS Start  | 1核    | 512MB  | HDD      | 5GB      | 不限         | $3.25 - 20% OFF，从 $2.60起 | [立即购买](https://justhost.asia/services/vps/tariffs/1?location=gefaftmcom&ref=196392) |
-| HDD VPS Standard | 2核  | 2048MB | HDD      | 25GB     | 不限         | $11 - 20% OFF，从 $8.80起  | [立即购买](https://justhost.asia/services/vps/tariffs/2?location=gefaftmcom&ref=196392) |
-| HDD VPS Super  | 4核    | 4096MB | HDD      | 50GB     | 不限         | $22 - 20% OFF，从 $17.60起 | [立即购买](https://justhost.asia/services/vps/tariffs/3?location=gefaftmcom&ref=196392) |
-| SSD VPS Start+ | 1核    | 512MB  | SSD      | 5GB      | 不限         | $3.90 - 20% OFF，从 $3.12起 | [立即购买](https://justhost.asia/services/vps/tariffs/5?location=gefaftmcom&ref=196392) |
-| SSD VPS Standard+ | 2核 | 2048MB | SSD      | 25GB     | 不限         | $13.20 - 20% OFF，从 $10.56起 | [立即购买](https://justhost.asia/services/vps/tariffs/6?location=gefaftmcom&ref=196392) |
-| SSD VPS Super+ | 4核    | 4096MB | SSD      | 50GB     | 不限         | $26.40 - 20% OFF，从 $21.12起 | [立即购买](https://justhost.asia/services/vps/tariffs/7?location=gefaftmcom&ref=196392) |
-| NVMe VPS Start++ | 1核 | 512MB  | NVMe     | 5GB      | 不限         | $4.22 - 20% OFF，从 $3.38起 | [立即购买](https://justhost.asia/services/vps/tariffs/9?location=gefaftmcom&ref=196392) |
-| NVMe VPS Standard++ | 2核 | 2048MB | NVMe   | 25GB     | 不限         | $14.30 - 20% OFF，从 $11.44起 | [立即购买](https://justhost.asia/services/vps/tariffs/10?location=gefaftmcom&ref=196392) |
-| NVMe VPS Super++ | 4核  | 4096MB | NVMe     | 50GB     | 不限         | $28.60 - 20% OFF，从 $22.88起 | [立即购买](https://justhost.asia/services/vps/tariffs/11?location=gefaftmcom&ref=196392) |
-| HDD VPS IPv6    | 1核    | 512MB  | HDD      | 5GB      | 不限         | $2 - 20% OFF，从 $1.60起    | [立即购买](https://justhost.asia/services/vps/tariffs/4?location=gefaftmcom&ref=196392) |
-| SSD VPS IPv6    | 1核    | 512MB  | SSD      | 5GB      | 不限         | $2.65 - 20% OFF，从 $2.12起 | [立即购买](https://justhost.asia/services/vps/tariffs/8?location=gefaftmcom&ref=196392) |
-| NVMe VPS IPv6   | 1核    | 512MB  | NVMe     | 5GB      | 不限         | $2.97 - 20% OFF，从 $2.38起 | [立即购买](https://justhost.asia/services/vps/tariffs/12?location=gefaftmcom&ref=196392) |
+| HDD VPS Start  | 1核    | 512MB  | HDD      | 5GB      | 不限，10Mbit | $1.16                    | [立即购买](https://justhost.asia/services/vps/tariffs/13?location=gefaftmcom&ref=41324) |
+| HDD VPS Start  | 1核    | 512MB  | HDD      | 5GB      | 不限         | $3.25 - 20% OFF，从 $2.60起 | [立即购买](https://justhost.asia/services/vps/tariffs/1?location=gefaftmcom&ref=41324) |
+| HDD VPS Standard | 2核  | 2048MB | HDD      | 25GB     | 不限         | $11 - 20% OFF，从 $8.80起  | [立即购买](https://justhost.asia/services/vps/tariffs/2?location=gefaftmcom&ref=41324) |
+| HDD VPS Super  | 4核    | 4096MB | HDD      | 50GB     | 不限         | $22 - 20% OFF，从 $17.60起 | [立即购买](https://justhost.asia/services/vps/tariffs/3?location=gefaftmcom&ref=41324) |
+| SSD VPS Start+ | 1核    | 512MB  | SSD      | 5GB      | 不限         | $3.90 - 20% OFF，从 $3.12起 | [立即购买](https://justhost.asia/services/vps/tariffs/5?location=gefaftmcom&ref=41324) |
+| SSD VPS Standard+ | 2核 | 2048MB | SSD      | 25GB     | 不限         | $13.20 - 20% OFF，从 $10.56起 | [立即购买](https://justhost.asia/services/vps/tariffs/6?location=gefaftmcom&ref=41324) |
+| SSD VPS Super+ | 4核    | 4096MB | SSD      | 50GB     | 不限         | $26.40 - 20% OFF，从 $21.12起 | [立即购买](https://justhost.asia/services/vps/tariffs/7?location=gefaftmcom&ref=41324) |
+| NVMe VPS Start++ | 1核 | 512MB  | NVMe     | 5GB      | 不限         | $4.22 - 20% OFF，从 $3.38起 | [立即购买](https://justhost.asia/services/vps/tariffs/9?location=gefaftmcom&ref=41324) |
+| NVMe VPS Standard++ | 2核 | 2048MB | NVMe   | 25GB     | 不限         | $14.30 - 20% OFF，从 $11.44起 | [立即购买](https://justhost.asia/services/vps/tariffs/10?location=gefaftmcom&ref=41324) |
+| NVMe VPS Super++ | 4核  | 4096MB | NVMe     | 50GB     | 不限         | $28.60 - 20% OFF，从 $22.88起 | [立即购买](https://justhost.asia/services/vps/tariffs/11?location=gefaftmcom&ref=41324) |
+| HDD VPS IPv6    | 1核    | 512MB  | HDD      | 5GB      | 不限         | $2 - 20% OFF，从 $1.60起    | [立即购买](https://justhost.asia/services/vps/tariffs/4?location=gefaftmcom&ref=41324) |
+| SSD VPS IPv6    | 1核    | 512MB  | SSD      | 5GB      | 不限         | $2.65 - 20% OFF，从 $2.12起 | [立即购买](https://justhost.asia/services/vps/tariffs/8?location=gefaftmcom&ref=41324) |
+| NVMe VPS IPv6   | 1核    | 512MB  | NVMe     | 5GB      | 不限         | $2.97 - 20% OFF，从 $2.38起 | [立即购买](https://justhost.asia/services/vps/tariffs/12?location=gefaftmcom&ref=41324) |
 
 ## JustHost 测评
 
@@ -80,6 +80,6 @@ JustHost 提供的服务在用户中享有良好的口碑，特别是在价格�
 
 
 
-更多机房信息和测试资源（测试IP、测速文件、LookingGlass等），可通过[JustHost官网](https://justhost.asia/services/vps/?ref=196392)获取或联系客服。
+更多机房信息和测试资源（测试IP、测速文件、LookingGlass等），可通过[JustHost官网](https://justhost.asia/services/vps/?ref=41324)获取或联系客服。
 
 
